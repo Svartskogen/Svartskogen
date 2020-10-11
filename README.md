@@ -1,4 +1,5 @@
 <img align='left' src='leftImage' width='20%'>  
+<img align='right' src='rightImage' width='20%'>
 
 ## About me
 
@@ -10,9 +11,10 @@ Indie game developer from Argentina, using **Unity** and **C#**
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my personal, open or commercial projects.</p>
 
-| <a href="link" target="_blank">**Chime**</a> | <a href="link2" target="_blank">**Artifact Open Repo**</a> |
+| <a href="link" target="_blank">**Chime**</a> | <a href="link2" target="_blank">**Artifact Repository**</a> |
 | :---: | :---: | 
 | <img align='center' src='chimePath' height='100px'> | <img align='center' src='ArtifactImgPath' height='100px'> |
+| <a href="link" target="_blank">Spanish Unity Tutorials</a> | <a href="link2" target="_blank">Open Repository of my game Artifact</a> |
 
 
 <h2 align="center">Game jam games</h2>
