@@ -21,12 +21,10 @@ Indie game developer from Argentina, using **Unity** and **C#**
 -->
 
 <h2 align="center">Contact and Social Media</h2>
+<p align="center"><a href="mailto:amichelidebard@gmail.com" target="_blank">Email Contact</a></p>
+<p align="center"><a href="https://twitter.com/Svartskogen" target="_blank">Personal Twitter</a></p>
+<p align="center"><a href="https://svartskogen.itch.io/" target="_blank">itch.io Profile</a></p>
 
-#### [Email Contact](mailto:amichelidebard@gmail.com)
-
-#### [Personal Twitter](https://twitter.com/Svartskogen)
-
-#### [itch.io Profile](https://svartskogen.itch.io/)
 
 <h2 align="center">Pinned Repositories</h2>
 
