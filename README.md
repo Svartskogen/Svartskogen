@@ -1,7 +1,7 @@
 ## About me
 
 #### Augusto Micheli Debard
-Indie game developer from Argentina, using **Unity** and **C#**
+.NET backend developer and hobbyist game dev from Argentina, using **ASP.NET Core**, **Blazor Framework**, **Unity** and **C#**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svartskogen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
