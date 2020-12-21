@@ -7,9 +7,6 @@
 
 (Data taken from public Github repos)
 
-<h2 align="center">Portfolio Website</h2>
-<h4 align="center">Take a look at my online portfolio <a href="https://svartskogen.github.io/" target="_blank">Here</a>.</h4>
-
 <!--
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my personal, open or commercial projects.</p>
